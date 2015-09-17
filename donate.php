@@ -10,12 +10,12 @@
             
             <div class="section">
               <h5>Donate via PayPal</h5>
-              <a class="waves-effect waves-light btn amber black-text" href="https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&SESSION=o_bFxeimjBkMm7UJ0DUpy9kygjGKR87XcfE06nypZwmhAV_Cjb5GA8KW9ci&dispatch=5885d80a13c0db1f8e263663d3faee8d5c97cbf3d75cb63effe5661cdf3adb6d" target="_blank">PayPal</a>
+              <a class="waves-effect waves-light btn amber black-text disabled" href="https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&SESSION=o_bFxeimjBkMm7UJ0DUpy9kygjGKR87XcfE06nypZwmhAV_Cjb5GA8KW9ci&dispatch=5885d80a13c0db1f8e263663d3faee8d5c97cbf3d75cb63effe5661cdf3adb6d" target="_blank">PayPal</a>
             </div>
             <div class="divider"></div>
             <div class="section">
               <h5>Donate via Bitcoin</h5>
-              <a class="waves-effect waves-light btn amber black-text">Bitcoin</a>
+              <a class="waves-effect waves-light btn amber black-text disabled">Bitcoin</a>
             </div>
 
             <br>
